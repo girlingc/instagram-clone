@@ -30,7 +30,7 @@ function Header() {
             objectFit="contain"
           />
         </div>
-        { /* Middle */ }
+        {/* Middle */}
         <div className="max-w-xs">
           <div className="relative mt-1 p-3 rounded-md">
             <div className="absolute inset-y-0 pl-3 flex items-center pointer-events-none">
